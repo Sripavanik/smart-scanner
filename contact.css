@@ -1,0 +1,43 @@
+.name_label{
+    color:white;
+    font-size: larger;
+    margin:50px;
+}
+.email_label{
+    color:white;
+    position: relative;
+    font-size: larger;
+    margin:50px;
+}
+.message_label{
+    color:white;
+    font-size: larger;
+    margin: -10px 50px 50px;
+    
+    
+}
+.send_message{
+    
+    width:300px;
+    height:50px;
+    border: none;
+    color:rgba(40,60,102,100);
+    font-size: medium;
+    border-radius: 8px;
+}
+.send_message:hover{
+    background-color: yellow;
+    cursor: pointer;
+
+}
+.form-group{
+    margin:70px;
+}
+#name_touch,#email_touch{
+    width:600px;
+    height:50px;
+}
+#message_touch{
+    width:600px;
+    height:100px;
+}
